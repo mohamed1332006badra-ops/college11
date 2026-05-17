@@ -1,0 +1,652 @@
+[
+  {
+    "query": "Students studying in a modern library",
+    "image_info": {
+      "url": "https://library.washu.edu/wp-content/uploads/2023/06/220428_washu_library_1911_header.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 474757,
+      "width": 1900,
+      "height": 900,
+      "total_pixels": 1710000,
+      "basic_score": 0.8210378250891626,
+      "file_name": "university-library-students-studying.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly matches the search query and prompt, showing a diverse group of students studying in a well-equipped, modern university library. The clarity is excellent, and there are no watermarks.",
+      "file_name": "university-library-students-studying.jpg",
+      "caption": "A wide shot of a modern university library filled with students studying at long wooden tables equipped with individual lamps and laptops, surrounded by floor-to-ceiling bookshelves.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Students studying in a modern library",
+    "image_info": {
+      "url": "https://cms-resources.prd.timeshighereducation.com/sites/default/files/styles/featured_image/public/2024-11/iStock-students-in-library.jpg?h=97b75a66&itok=zZA9NC13",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 64380,
+      "width": 710,
+      "height": 533,
+      "total_pixels": 378430,
+      "basic_score": 0.8168070104161823,
+      "file_name": "diverse-university-students-studying-library.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly aligns with the search query and prompt, featuring a diverse group of students engaged in study within a classic library setting. The clarity is excellent, and there are no visible watermarks, making it highly professional and suitable for educational or promotional use.",
+      "file_name": "diverse-university-students-studying-library.jpg",
+      "caption": "A diverse group of four university students are sitting around a white table in a library, collaborating on their studies with a laptop and notebooks against a backdrop of floor-to-ceiling bookshelves.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Students studying in a modern library",
+    "image_info": {
+      "url": "http://blogs.library.duke.edu/wp-content/uploads/2013/08/student-advisory-boards.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 314152,
+      "width": 600,
+      "height": 360,
+      "total_pixels": 216000,
+      "basic_score": 0.7896903281971601,
+      "file_name": "university-students-studying-modern-library.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. it depicts a realistic university library setting with students actively studying using laptops and books. The lighting is bright and natural, and the composition is professional without any watermarks.",
+      "file_name": "university-students-studying-modern-library.jpg",
+      "caption": "A group of university students focused on their laptops and books while studying at wooden tables in a spacious, modern library with tall bookshelves and large windows.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Students studying in a modern library",
+    "image_info": {
+      "url": "https://www.proctorfree.com/hubfs/People%20in%20Library.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 96354,
+      "width": 1200,
+      "height": 600,
+      "total_pixels": 720000,
+      "basic_score": 0.8919775594622815,
+      "file_name": "university-students-studying-modern-library-computers.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 70.0,
+      "watermark_score": 100.0,
+      "overall_score": 82.0,
+      "explanation": "The image perfectly matches the search query and prompt, showing a diverse group of students working in a modern university library environment. While the relevance is high, the image clarity is somewhat average, with some slight pixelation and blown-out highlights in the background lighting.",
+      "file_name": "university-students-studying-modern-library-computers.jpg",
+      "caption": "A group of diverse university students working on computers at long white desks in a modern library with extensive bookshelves in the background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern conference or online learning platform",
+    "image_info": {
+      "url": "https://elearningindustry.com/wp-content/uploads/2017/05/5-reasons-to-invest-in-video-conferencing-for-education-.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 463913,
+      "width": 820,
+      "height": 460,
+      "total_pixels": 377200,
+      "basic_score": 0.8561741054301595,
+      "file_name": "online-education-video-conference-student-learning.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly captures the essence of online education and video conferencing. It shows a student actively participating in a remote lesson, taking notes while watching a teacher on a laptop screen. The composition is professional, the lighting is good, and there are no distracting watermarks.",
+      "file_name": "online-education-video-conference-student-learning.jpg",
+      "caption": "An over-the-shoulder view of a student attending an online educational video conference on a laptop, taking handwritten notes in a notebook while a teacher presents on the screen.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern conference or online learning platform",
+    "image_info": {
+      "url": "https://www.zerify.com/wp-content/uploads/2022/10/Education-2.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 555660,
+      "width": 545,
+      "height": 545,
+      "total_pixels": 297025,
+      "basic_score": 0.8296588796148745,
+      "file_name": "online-education-video-conference-student-teacher.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image perfectly captures the essence of online education and video conferencing. It shows a student engaged with a teacher who is providing positive reinforcement via a laptop screen. The composition is professional, with a shallow depth of field focusing on the interaction, and the image is clear without any watermarks.",
+      "file_name": "online-education-video-conference-student-teacher.jpg",
+      "caption": "A young student with braided hair engages in a remote learning session via a laptop video conference, where a smiling teacher gives an encouraging double thumbs up.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern conference or online learning platform",
+    "image_info": {
+      "url": "https://www.ringcentral.com/us/en/blog/wp-content/uploads/2022/06/GettyImages-1311509075.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 116356,
+      "width": 930,
+      "height": 620,
+      "total_pixels": 576600,
+      "basic_score": 0.8787488310918293,
+      "file_name": "modern-online-education-video-conference.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 92.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly matches the search query and prompt. it depicts a modern online learning or conference scenario with a clear focus on the subject and the interface on the laptop screen. The composition is professional, with natural lighting and no watermarks.",
+      "file_name": "modern-online-education-video-conference.jpg",
+      "caption": "A young woman wearing yellow headphones participates in a multi-person video conference call on a laptop. She is waving at her colleagues or classmates, with a notebook and pen ready on her desk in a brightly lit home office setting.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern conference or online learning platform",
+    "image_info": {
+      "url": "https://www.ringcentral.com/us/en/blog/wp-content/uploads/2021/11/education-ringcentral.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 313689,
+      "width": 930,
+      "height": 700,
+      "total_pixels": 651000,
+      "basic_score": 0.9040650904397531,
+      "file_name": "elementary-classroom-online-video-conference.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly illustrates an online education video conference within a classroom setting. It shows a teacher and students interacting with a remote classroom via a large monitor, which aligns exactly with the search query and prompt. The image is clear and professional, with no watermarks.",
+      "file_name": "elementary-classroom-online-video-conference.jpg",
+      "caption": "A teacher and her young students in a colorful classroom participate in a live video conference with a class of students from another country, shown on a large desktop monitor.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Modern conference or online learning platform",
+    "image_info": {
+      "url": "https://trueconf.com/blog/wp-content/uploads/2023/08/education-en.png",
+      "img_format": "PNG",
+      "mode": "P",
+      "file_size": 300761,
+      "width": 1240,
+      "height": 707,
+      "total_pixels": 876680,
+      "basic_score": 0.9345571198627287,
+      "file_name": "online-education-video-conference-virtual-classroom.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 70.0,
+      "watermark_score": 85.0,
+      "overall_score": 85.0,
+      "explanation": "The image perfectly matches the search query and prompt, showing a realistic online education video conference interface for a primary school English class. It features a teacher and multiple students in a grid view with functional UI elements. The clarity is slightly reduced due to the compressed nature of video call screenshots, and there is branding for 'TrueConf' in the top corner.",
+      "file_name": "online-education-video-conference-virtual-classroom.jpg",
+      "caption": "A screenshot of a modern online learning platform showing a virtual classroom for English Grade 1, featuring a teacher and eight young students in a video conference grid.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional academic certificate or diploma",
+    "image_info": {
+      "url": "https://marketplace.canva.com/EAHCOAIQquU/1/0/1600w/canva-blue-and-white-traditional-academic-certificate-eO8FPhHJgmg.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 178217,
+      "width": 1600,
+      "height": 1131,
+      "total_pixels": 1809600,
+      "basic_score": 0.7993348238541595,
+      "file_name": "professional-academic-certificate-diploma-template.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image is a perfect match for the search query and prompt. It is a high-quality, professional academic certificate template with clear typography, elegant design elements, and no watermarks.",
+      "file_name": "professional-academic-certificate-diploma-template.jpg",
+      "caption": "A formal academic certificate template for Borcelle University, featuring a blue and white color scheme, intricate Art Deco-style borders, and a gold seal. The certificate is awarded to Juliana Silva for academic excellence and dedication.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional academic certificate or diploma",
+    "image_info": {
+      "url": "https://res.cloudinary.com/certifier/image/upload/v1719841658/graduation_certificate_Certifier_blog_violet_9edafdabd9.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 119906,
+      "width": 1200,
+      "height": 800,
+      "total_pixels": 960000,
+      "basic_score": 0.9350306441542858,
+      "file_name": "professional-academic-graduation-certificate-diploma.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 100.0,
+      "watermark_score": 85.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a perfect match for the search query and prompt, depicting a professional academic graduation certificate. The clarity is excellent, with all text being perfectly legible. There is a 'Certifier' brand logo in the top left corner, which acts as a minor watermark, but the overall presentation is highly professional.",
+      "file_name": "professional-academic-graduation-certificate-diploma.jpg",
+      "caption": "A professional digital graduation certificate for a Bachelor of Science in Human Biology, featuring an ornate purple border, official signatures of the university president and dean, and a central academic seal.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional academic certificate or diploma",
+    "image_info": {
+      "url": "https://www.worldcampus.psu.edu/sites/default/files/2025-09/MBA%20diploma_wheeler.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 996090,
+      "width": 1500,
+      "height": 1001,
+      "total_pixels": 1501500,
+      "basic_score": 0.9078760539909952,
+      "file_name": "framed-penn-state-university-mba-diploma.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a high-quality, professional photograph of a real academic diploma (Master of Business Administration from The Pennsylvania State University). It perfectly matches the search query and prompt.",
+      "file_name": "framed-penn-state-university-mba-diploma.jpg",
+      "caption": "A professionally framed Master of Business Administration diploma from The Pennsylvania State University, featuring the university seal and official signatures.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "Professional academic certificate or diploma",
+    "image_info": {
+      "url": "https://m.media-amazon.com/images/I/91P-zQwO+-L._AC_UF894,1000_QL80_.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 176315,
+      "width": 894,
+      "height": 691,
+      "total_pixels": 617754,
+      "basic_score": 0.8940654295788977,
+      "file_name": "professional-academic-degree-certificate-template.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a perfect match for the search query and prompt. It is a high-quality template for a professional academic degree certificate, featuring classic design elements like an ornate border, formal typography, and a gold seal. The text is clear and legible.",
+      "file_name": "professional-academic-degree-certificate-template.jpg",
+      "caption": "A professional academic certificate template for a Master's degree, featuring an ornate blue border, formal blackletter and serif typography, and a gold 'Official Seal of Excellence' at the bottom center.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "International students graduation ceremony",
+    "image_info": {
+      "url": "https://cge.fresnostate.edu/international/images/intl-convocation.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 692274,
+      "width": 1100,
+      "height": 608,
+      "total_pixels": 668800,
+      "basic_score": 0.9364589764996791,
+      "file_name": "international-students-graduation-ceremony-caps-toss.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly captures the essence of the search query. It shows a diverse group of graduates celebrating by throwing their caps. The international aspect is clearly represented by the various national flag stoles worn by the students (e.g., China, India, Turkey, USA). The photo is high-resolution, well-composed, and free of watermarks.",
+      "file_name": "international-students-graduation-ceremony-caps-toss.jpg",
+      "caption": "A diverse group of international students in academic regalia throwing their graduation caps into the air. The students are wearing stoles featuring different national flags, symbolizing global diversity during a graduation ceremony outdoors.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "International students graduation ceremony",
+    "image_info": {
+      "url": "https://international.uiowa.edu/sites/international.uiowa.edu/files/styles/ultrawide__1312_x_562/public/2023-05/International-Student-Graduation-group-photo---higher-res.jpg?h=ddc58dd3&itok=Q0NFKry9",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 327431,
+      "width": 1312,
+      "height": 562,
+      "total_pixels": 737344,
+      "basic_score": 0.8838819023489353,
+      "file_name": "diverse-international-students-graduation-group-photo.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 98.0,
+      "clarity_score": 85.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a perfect match for the search query, showcasing a highly diverse group of students in graduation regalia. The composition is a standard wide group shot, which is very clear and free of any watermarks. The inclusion of various cultural attires and flags further emphasizes the 'international' aspect of the ceremony.",
+      "file_name": "diverse-international-students-graduation-group-photo.jpg",
+      "caption": "A large, diverse group of international graduates wearing academic caps and gowns poses for a commemorative photo during a graduation ceremony, with a 'Thank you!' slide visible in the background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "International students graduation ceremony",
+    "image_info": {
+      "url": "https://lindenlink.com/wp-content/uploads/2023/10/unnamed-800x1200.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 159689,
+      "width": 800,
+      "height": 1200,
+      "total_pixels": 960000,
+      "basic_score": 0.9111980754859011,
+      "file_name": "international-student-graduation-sash-gown.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 80.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 85.0,
+      "explanation": "The image captures an international student in graduation regalia, featuring a unique, colorful sash that represents cultural heritage. While it doesn't show a full ceremony with many students, it's a high-quality, clear, and professional shot that fits the theme well.",
+      "file_name": "international-student-graduation-sash-gown.jpg",
+      "caption": "A back view of a female graduate in a black cap and gown, wearing a vibrant multi-colored international sash, walking down a campus path while holding a diploma folder.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "International students graduation ceremony",
+    "image_info": {
+      "url": "https://www.usf.edu/world/news/images/2024/fall-sash-ceremony-header-1000x500.png",
+      "img_format": "PNG",
+      "mode": "RGBA",
+      "file_size": 1127133,
+      "width": 1000,
+      "height": 500,
+      "total_pixels": 500000,
+      "basic_score": 0.8721840214904129,
+      "file_name": "international-students-graduation-ceremony-celebration.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 70.0,
+      "watermark_score": 100.0,
+      "overall_score": 82.0,
+      "explanation": "The image perfectly captures an international students' graduation celebration, featuring a diverse group of graduates wearing stoles representing different countries. The inclusion of a university mascot (Rocky the Bull from USF) adds a sense of place and community. While the relevance is high, the image clarity is somewhat limited by a lower resolution and slight graininess.",
+      "file_name": "international-students-graduation-ceremony-celebration.jpg",
+      "caption": "A large and diverse group of international students wearing colorful national graduation stoles pose with a bull mascot at a university graduation ceremony event.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "British professional academic setting",
+    "image_info": {
+      "url": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20250719_LDP502.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 193985,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9388358402649127,
+      "file_name": "british-college-academic-courtyard-professional-setting.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image perfectly captures the requested theme of a British professional academic setting. The architecture is quintessentially British (likely Oxford or Cambridge), and the individual's attire is professional. The composition is excellent, framed by historic stone arches, and the image is clear without any watermarks.",
+      "file_name": "british-college-academic-courtyard-professional-setting.jpg",
+      "caption": "A person in professional academic attire walks through a historic stone-arched courtyard of a British college, featuring traditional sash windows, flower boxes, and bicycles parked in the background.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "British professional academic setting",
+    "image_info": {
+      "url": "https://www.nordangliaeducation.com/bisb-boston/-/media/bisb-boston/image_bisb_boston_2025_278_websize.jpg?h=1067&iar=0&w=1600&rev=60ed77735e054881bf72bc9b082b77a8&hash=27BA7DBEDFC16703871FE0B5A8682F74",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 216625,
+      "width": 1600,
+      "height": 1067,
+      "total_pixels": 1707200,
+      "basic_score": 0.8343029994008409,
+      "file_name": "british-college-academic-professional-setting.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image captures a modern, professional academic environment that aligns well with the search query. It depicts a diverse group of women in a collaborative setting, likely a 3D printing lab or design studio, which is common in contemporary British higher education. The lighting, composition, and professional attire enhance its suitability. While there are no iconic British landmarks, the subtle details like the flags on the whiteboard suggest an international UK university context.",
+      "file_name": "british-college-academic-professional-setting.jpg",
+      "caption": "A group of diverse women professionals and students collaborating in a bright, modern academic lab featuring 3D printers and a professional classroom atmosphere.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "British professional academic setting",
+    "image_info": {
+      "url": "https://www.britishcollegegava.com/sites/school44/files/styles/ins_text_and_image/public/2026-01/76891_copia_de_british_college_of_gava-140_4.jpg.jpeg?h=af4ce5f3&itok=U8PGO0kb",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 123049,
+      "width": 1200,
+      "height": 910,
+      "total_pixels": 1092000,
+      "basic_score": 0.9348278355887508,
+      "file_name": "students-collaborating-modern-british-college-setting.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 88.0,
+      "clarity_score": 92.0,
+      "watermark_score": 100.0,
+      "overall_score": 90.0,
+      "explanation": "The image perfectly captures a modern academic environment that aligns with a British college or professional study setting. The lighting is natural, and the composition effectively uses a shallow depth of field to focus on the students' engagement with their work. There are no distracting watermarks, and the clarity is excellent.",
+      "file_name": "students-collaborating-modern-british-college-setting.jpg",
+      "caption": "Students working together in a bright, modern academic setting with laptops, calculators, and notebooks, reflecting a collaborative learning environment in a British college.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A prestigious British university building with classic architecture",
+    "image_info": {
+      "url": "https://www.timeshighereducation.com/student/sites/default/files/cbh_rhul_arch1_0026v1_1_0.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 92878,
+      "width": 723,
+      "height": 550,
+      "total_pixels": 397650,
+      "basic_score": 0.8264287247163422,
+      "file_name": "royal-holloway-founders-building-british-university.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 98.0,
+      "explanation": "The image features the Founder's Building at Royal Holloway, University of London, which is a quintessential example of prestigious British university architecture. It perfectly matches the search query and prompt. The image is clear, well-composed, and free of any watermarks.",
+      "file_name": "royal-holloway-founders-building-british-university.jpg",
+      "caption": "A stunning wide-angle shot of the Founder's Building at Royal Holloway, University of London, showcasing its intricate Victorian Gothic red-brick architecture under a vibrant blue sky with fluffy white clouds.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A prestigious British university building with classic architecture",
+    "image_info": {
+      "url": "https://student-cms.prd.timeshighereducation.com/sites/default/files/university_of_oxford.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 94059,
+      "width": 800,
+      "height": 532,
+      "total_pixels": 425600,
+      "basic_score": 0.8349357232035592,
+      "file_name": "oxford-university-radcliffe-camera-architecture.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 92.0,
+      "watermark_score": 100.0,
+      "overall_score": 96.0,
+      "explanation": "The image features the Radcliffe Camera and All Souls College at Oxford University, which is the quintessential example of a prestigious British university with classic architecture. The composition is excellent, and the image is clear with no watermarks.",
+      "file_name": "oxford-university-radcliffe-camera-architecture.jpg",
+      "caption": "An elevated view of the Radcliffe Camera and All Souls College, showcasing the historic and prestigious Gothic and Baroque architecture of Oxford University under a blue sky.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A prestigious British university building with classic architecture",
+    "image_info": {
+      "url": "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20250719_LDP502.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 193985,
+      "width": 1280,
+      "height": 720,
+      "total_pixels": 921600,
+      "basic_score": 0.9388358402649127,
+      "file_name": "prestigious-british-university-campus-architecture.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 95.0,
+      "clarity_score": 90.0,
+      "watermark_score": 100.0,
+      "overall_score": 95.0,
+      "explanation": "The image perfectly captures the essence of a prestigious British university campus. It features classic stone architecture with elegant arches, a central courtyard, and elements like bicycles and a student-like figure that enhance the academic atmosphere. The composition is excellent, using the foreground arches to frame the scene.",
+      "file_name": "prestigious-british-university-campus-architecture.jpg",
+      "caption": "A view through classic stone archways into the courtyard of a prestigious British university, showing a person walking and bicycles parked against a backdrop of historic academic buildings.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A prestigious British university building with classic architecture",
+    "image_info": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/TrinityCollegeCamGreatCourt.jpg",
+      "img_format": "JPEG",
+      "mode": "RGB",
+      "file_size": 380737,
+      "width": 1181,
+      "height": 768,
+      "total_pixels": 907008,
+      "basic_score": 0.9533755015986053,
+      "file_name": "trinity-college-cambridge-great-court-architecture.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 100.0,
+      "clarity_score": 88.0,
+      "watermark_score": 100.0,
+      "overall_score": 93.0,
+      "explanation": "The image perfectly captures Trinity College, Cambridge, one of the most prestigious British university campuses. The classic Gothic and Tudor architecture, the iconic Great Court fountain, and the manicured lawn align exactly with the search query and prompt. The image is clear and well-composed with no watermarks.",
+      "file_name": "trinity-college-cambridge-great-court-architecture.jpg",
+      "caption": "A wide-angle shot of the Great Court at Trinity College, Cambridge, showing the historic ornate fountain, the Chapel, and the Great Gate under a clear blue sky.",
+      "recommend": true,
+      "error": ""
+    }
+  },
+  {
+    "query": "A prestigious British university building with classic architecture",
+    "image_info": {
+      "url": "https://gcrdhub.com/wp-content/uploads/2025/10/a_A_split-screen_or_tr.png",
+      "img_format": "PNG",
+      "mode": "RGB",
+      "file_size": 1569675,
+      "width": 1024,
+      "height": 1024,
+      "total_pixels": 1048576,
+      "basic_score": 0.9149661220283731,
+      "file_name": "british-university-campus-classic-modern-architecture.jpg"
+    },
+    "llm_score": {
+      "success": true,
+      "relevance_score": 90.0,
+      "clarity_score": 95.0,
+      "watermark_score": 100.0,
+      "overall_score": 92.0,
+      "explanation": "The image is a high-quality triptych that perfectly captures the contrast between traditional and modern British university life. The left panel specifically meets the request for classic architecture, while the overall image provides a comprehensive view of campus academic life. It is sharp, well-composed, and free of watermarks.",
+      "file_name": "british-university-campus-classic-modern-architecture.jpg",
+      "caption": "A three-part composite image of students at a British university, showcasing traditional stone Gothic architecture, modern brick buildings, and contemporary glass academic facilities.",
+      "recommend": true,
+      "error": ""
+    }
+  }
+]
